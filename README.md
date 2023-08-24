@@ -17,14 +17,14 @@
 - 📝 Interested in full stack development 
 
 - 💬 learning about computer vision and machine learning application development
--    I am currently open for:An Intern on a new job opportunity
+-    I am currently working on dsa
 
 - 📫 How to reach me **hs911613@gmail.com **
   
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+  
 
 
 
