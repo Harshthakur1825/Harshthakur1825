@@ -1,6 +1,6 @@
 
 <h3 align="center">Harsh singh</a></h1>
-//
+
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
  -I am self taught Full stack development and a machine learning Developer 
