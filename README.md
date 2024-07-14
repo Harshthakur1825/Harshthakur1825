@@ -28,12 +28,7 @@
 
 
 
-<!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python]
-- [Convert a image to sketch using python]
-- [Upload your project/files in GitHub using commands](
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
