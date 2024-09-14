@@ -32,6 +32,6 @@
 
 ---
 
-Credit: [harsh singh]
+
 
 
