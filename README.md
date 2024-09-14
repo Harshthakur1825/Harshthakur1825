@@ -3,15 +3,15 @@
 
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
- -I am self taught Full stack development and a machine learning Developer 
+ -I am self taught Full stack development
 
 - 🔭 I’m pursingh a bachelor in computer science from university of Lucknow 
 
-- 🌱 I’m have a strong intrest in data science and Artifical Intelligence.
+- 🌱 I’m have a strong intrest in data science and Blockchain
 
 - 🤝 working on web development
 
-- 🌱 Main language: phython,java,c <a hr f="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 Main language: Java, Javascript <a hr f="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
 - 📝 Interested in full stack development 
 
