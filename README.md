@@ -3,7 +3,7 @@
 
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
- -I am self taught Full stack development
+ -I am self taught Full stack developer
 
 - 🔭 I’m pursingh a bachelor in computer science from university of Lucknow 
 
@@ -16,7 +16,7 @@
 - 📝 Interested in full stack development 
 
 - 💬 learning about computer vision and machine learning application development
--    I am currently working on dsa
+-    I am currently working on DSA
 
 - 📫 How to reach me **hs911613@gmail.com **
   
