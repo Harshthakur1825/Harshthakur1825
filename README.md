@@ -1,37 +1,37 @@
+# Hello, I'm Harsh Thakur! 👋
 
-<h3 align="center">Harsh singh</a></h1>
+I'm a passionate software developer with a keen interest in open source contributions, cloud computing, and DevOps practices. I love to explore new technologies and apply them to solve real-world problems.
 
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
- -I am self taught Full stack developer
+## 🚀 About Me
 
-- 🔭 I’m pursingh a bachelor in computer science from university of Lucknow 
+- 🔭 I’m currently working on various open source projects.
+- 🌱 I’m currently learning Kubernetes and advanced cloud architectures.
+- 👯 I’m looking to collaborate on open source projects and interesting software development challenges.
+- 💬 Ask me about DevOps, cloud computing, and anything related to software development.
+- 📫 How to reach me: harshthakur1825@gmail.com
+- ⚡ Fun fact: I enjoy hiking and exploring nature during my free time.
 
-- 🌱 I’m have a strong intrest in data science and Blockchain
+## 🛠️ Technologies & Tools
 
-- 🤝 working on web development
+- Programming Languages: Python, JavaScript, Go, Java
+- Web Development: React, Node.js, Express.js, HTML, CSS
+- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions, Terraform
+- Cloud Platforms: AWS, Azure, Google Cloud
+- Databases: MySQL, PostgreSQL, MongoDB
+- Others: Git, Linux, Bash scripting
 
-- 🌱 Main language: Java, Javascript <a hr f="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+## 📈 GitHub Stats
 
-- 📝 Interested in full stack development 
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshthakur1825&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshthakur1825&layout=compact&theme=radical)
 
-- 💬 learning about computer vision and machine learning application development
--    I am currently working on DSA
+## 📫 Connect with Me
 
-- 📫 How to reach me **hs911613@gmail.com **
-  
+- [LinkedIn](https://www.linkedin.com/in/harshthakur1825/)
+- [Twitter](https://twitter.com/harshthakur1825)
+- [GitHub](https://github.com/Harshthakur1825)
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-  
+Feel free to reach out if you want to discuss technology, collaboration, or just want to say hi! 😊
 
-
-
-
-
-
----
-
-
-
+Let's build something amazing together!
 
