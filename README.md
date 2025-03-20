@@ -8,7 +8,7 @@ I'm a passionate software developer with a keen interest in open source contribu
 - 🌱 I’m currently learning Kubernetes and advanced cloud architectures.
 - 👯 I’m looking to collaborate on open source projects and interesting software development challenges.
 - 💬 Ask me about DevOps, cloud computing, and anything related to software development.
-- 📫 How to reach me: harshthakur1825@gmail.com
+- 📫 How to reach me: hs911613@gmail.com
 - ⚡ Fun fact: I enjoy hiking and exploring nature during my free time.
 
 ## 🛠️ Technologies & Tools
